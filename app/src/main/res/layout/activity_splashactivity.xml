@@ -1,0 +1,15 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black">
+
+    <!-- Your image view for the splash screen -->
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/splashlogo"/>
+
+    <!-- Any additional content or layout elements can be added here -->
+    <!-- For instance, text, logo, etc. -->
+
+</RelativeLayout>
